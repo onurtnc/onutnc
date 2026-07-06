@@ -26,9 +26,14 @@ I focus on building **strong fundamentals** in cybersecurity and documenting wha
 ---
 
 ## 📂 Featured Repositories
-- 🔐 **tryhackme-learning** – My TryHackMe notes & write-ups  
-- 🧪 **cybersecurity-notes** – Security fundamentals & commands  
-- ♟️ **java-projects** – Java practice and mini projects  
+- 🛡️ **[soc-dfir-toolkit](https://github.com/onurtnc/soc-dfir-toolkit)** – Log parsing, IOC extraction, and timeline analysis toolkit for SOC/DFIR work
+- 🚨 **[soc-case-dns-beaconing](https://github.com/onurtnc/soc-case-dns-beaconing)** – End-to-end SOC case study detecting DNS beaconing / C2 activity
+- 📡 **[siem-detection-rules](https://github.com/onurtnc/siem-detection-rules)** – Sigma, Splunk, Elastic, and Sentinel detection rules
+- 🕵️ **[malware-triage-starter](https://github.com/onurtnc/malware-triage-starter)** – Malware analysis report (Mars Stealer) for triage practice
+- 🔑 **[ssh-bruteforce-detection](https://github.com/onurtnc/ssh-bruteforce-detection)** – SSH brute-force detection mini SOC project
+- 🦈 **[my-wireshark-analysis](https://github.com/onurtnc/my-wireshark-analysis)** – Hands-on PCAP / Wireshark traffic analysis reports
+- 🐍 **[my-python-codes](https://github.com/onurtnc/my-python-codes)** – Python practice projects (calculator, port scanner, games)
+- ☕ **[my-java-codes](https://github.com/onurtnc/my-java-codes)** – Java practice projects (ATM simulator, grade management, calculator)
 
 _(More coming soon…)_
 
@@ -45,7 +50,7 @@ _(More coming soon…)_
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/onurtnc  
-- LinkedIn:www.linkedin.com/in/onurr7763
+- LinkedIn: https://www.linkedin.com/in/onurr7763
 
 ---
 
